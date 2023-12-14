@@ -15,7 +15,7 @@ using static GHIElectronics.Endpoint.Core.EPM815;
 //PA0,PF8,PD9,PD8,PB6,PF15,5v,GND
 
 //PH4 mislabeled on Domino REV A should be PZ5
-//PA14 not working on test board
+
 
 var pinid = Gpio.Pin.PA14;
 
